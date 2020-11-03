@@ -1,6 +1,6 @@
 ---
-title: 2020-11-02-My-First-Entry.md
-author: Pablo
+title: "The Start of a Long Journey Starts With a Short Step"
+date: 2020-11-02
 ---
 
 # And so it begins
