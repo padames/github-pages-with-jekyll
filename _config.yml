@@ -4,7 +4,7 @@ email: pablo.adames@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A test Github blog site using Jekill
 
-theme: minima
+theme: jekyll-theme-hacker
 
 # social links
 twitter_username: PAdames1 # DO NOT include the @ character, or else the build will fail!
